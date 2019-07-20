@@ -1,0 +1,11 @@
+﻿Create a simple app that asks the user for his/her
+Name
+Age
+Height
+Weight
+Then Tell him/her his BMI
+
+//Variables int, float, string
+//Try Parse
+//Write, Read
+//if
